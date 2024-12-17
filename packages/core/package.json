@@ -67,7 +67,7 @@
         "@univerjs/protocol": "0.1.39-alpha.15",
         "@wendellhu/redi": "0.16.1",
         "lodash-es": "^4.17.21",
-        "nanoid": "5.0.7",
+        "nanoid": "5.0.9",
         "numeral": "^2.0.6",
         "numfmt": "^2.5.2",
         "ot-json1": "^1.0.2"
